@@ -1,0 +1,1006 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.372917,
+          67.284044
+        ]
+      },
+      "properties": {
+        "quay_ref": "NSR:Quay:85043",
+        "name": "Bodø hurtigbåtkai",
+        "radius_m": 200.0,
+        "route_ids": [
+          "bodo-helgeland",
+          "bodo-svolvaer-bodo",
+          "bodo-vaeran",
+          "bodo-gildeskal"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.633902,
+          66.022865
+        ]
+      },
+      "properties": {
+        "quay_ref": "NSR:Quay:84656",
+        "name": "Sandnessjøen hurtigbåtkai",
+        "radius_m": 200.0,
+        "route_ids": [
+          "bodo-helgeland",
+          "helgelandspendelen"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.586354,
+          66.082407
+        ]
+      },
+      "properties": {
+        "quay_ref": "NSR:Quay:82109",
+        "name": "Bjørn hurtigbåtkai",
+        "radius_m": 200.0,
+        "route_ids": [
+          "bodo-helgeland"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.008145,
+          66.20046
+        ]
+      },
+      "properties": {
+        "quay_ref": "NSR:Quay:82098",
+        "name": "Nesna hurtigbåtkai",
+        "radius_m": 200.0,
+        "route_ids": [
+          "bodo-helgeland",
+          "helgelandspendelen"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.966474,
+          66.488968
+        ]
+      },
+      "properties": {
+        "quay_ref": "NSR:Quay:83594",
+        "name": "Indre Kvarøy hurtigbåtkai",
+        "radius_m": 200.0,
+        "route_ids": [
+          "bodo-helgeland"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.007719,
+          66.511873
+        ]
+      },
+      "properties": {
+        "quay_ref": "NSR:Quay:82082",
+        "name": "Tonnes hurtigbåtkai",
+        "radius_m": 200.0,
+        "route_ids": [
+          "bodo-helgeland"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.824105,
+          66.393038
+        ]
+      },
+      "properties": {
+        "quay_ref": "NSR:Quay:82086",
+        "name": "Onøy hurtigbåtkai",
+        "radius_m": 200.0,
+        "route_ids": [
+          "bodo-helgeland",
+          "helgelandspendelen"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.102481,
+          66.501257
+        ]
+      },
+      "properties": {
+        "quay_ref": "NSR:Quay:85828",
+        "name": "Træna hurtigbåtkai",
+        "radius_m": 200.0,
+        "route_ids": [
+          "bodo-helgeland",
+          "helgelandspendelen"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.22394,
+          66.5849
+        ]
+      },
+      "properties": {
+        "quay_ref": "NSR:Quay:85478",
+        "name": "Selvær hurtigbåtkai",
+        "radius_m": 200.0,
+        "route_ids": [
+          "bodo-helgeland"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.066193,
+          66.656183
+        ]
+      },
+      "properties": {
+        "quay_ref": "NSR:Quay:86737",
+        "name": "Rødøy hurtigbåtkai",
+        "radius_m": 200.0,
+        "route_ids": [
+          "bodo-helgeland"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.992044,
+          66.614612
+        ]
+      },
+      "properties": {
+        "quay_ref": "NSR:Quay:82267",
+        "name": "Gjerøy hurtigbåtkai",
+        "radius_m": 200.0,
+        "route_ids": [
+          "bodo-helgeland"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.978405,
+          66.57431
+        ]
+      },
+      "properties": {
+        "quay_ref": "NSR:Quay:85474",
+        "name": "Selsøyvik hurtigbåtkai",
+        "radius_m": 200.0,
+        "route_ids": [
+          "bodo-helgeland"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.477052,
+          66.761072
+        ]
+      },
+      "properties": {
+        "quay_ref": "NSR:Quay:81929",
+        "name": "Myken hurtigbåtkai",
+        "radius_m": 200.0,
+        "route_ids": [
+          "bodo-helgeland"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.280121,
+          66.710494
+        ]
+      },
+      "properties": {
+        "quay_ref": "NSR:Quay:81290",
+        "name": "Vågaholmen hurtigbåtkai",
+        "radius_m": 200.0,
+        "route_ids": [
+          "bodo-helgeland"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.434234,
+          66.92611
+        ]
+      },
+      "properties": {
+        "quay_ref": "NSR:Quay:86122",
+        "name": "Støtt hurtigbåtkai",
+        "radius_m": 200.0,
+        "route_ids": [
+          "bodo-helgeland"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.236976,
+          66.804988
+        ]
+      },
+      "properties": {
+        "quay_ref": "NSR:Quay:85068",
+        "name": "Bolga hurtigbåtkai",
+        "radius_m": 200.0,
+        "route_ids": [
+          "bodo-helgeland"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.452075,
+          66.794109
+        ]
+      },
+      "properties": {
+        "quay_ref": "NSR:Quay:81282",
+        "name": "Grønnøy hurtigbåtkai",
+        "radius_m": 200.0,
+        "route_ids": [
+          "bodo-helgeland"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.702011,
+          66.86863
+        ]
+      },
+      "properties": {
+        "quay_ref": "NSR:Quay:81285",
+        "name": "Ørnes hurtigbåtkai",
+        "radius_m": 200.0,
+        "route_ids": [
+          "bodo-helgeland"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.976777,
+          67.136275
+        ]
+      },
+      "properties": {
+        "quay_ref": "NSR:Quay:81627",
+        "name": "Sørarnøy hurtigbåtkai",
+        "radius_m": 200.0,
+        "route_ids": [
+          "bodo-helgeland",
+          "bodo-gildeskal"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.788354,
+          67.835153
+        ]
+      },
+      "properties": {
+        "quay_ref": "NSR:Quay:81996",
+        "name": "Nordskot hurtigbåtkai",
+        "radius_m": 200.0,
+        "route_ids": [
+          "bodo-svolvaer-bodo"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.75804,
+          67.667651
+        ]
+      },
+      "properties": {
+        "quay_ref": "NSR:Quay:81779",
+        "name": "Brennsund hurtigbåtkai",
+        "radius_m": 200.0,
+        "route_ids": [
+          "bodo-svolvaer-bodo"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.88733,
+          67.88503
+        ]
+      },
+      "properties": {
+        "quay_ref": "NSR:Quay:84027",
+        "name": "Holkestad hurtigbåtkai",
+        "radius_m": 200.0,
+        "route_ids": [
+          "bodo-svolvaer-bodo"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.189618,
+          67.899876
+        ]
+      },
+      "properties": {
+        "quay_ref": "NSR:Quay:84031",
+        "name": "Bogøy hurtigbåtkai",
+        "radius_m": 200.0,
+        "route_ids": [
+          "bodo-svolvaer-bodo"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.772864,
+          67.732972
+        ]
+      },
+      "properties": {
+        "quay_ref": "NSR:Quay:84026",
+        "name": "Helnessund hurtigbåtkai",
+        "radius_m": 200.0,
+        "route_ids": [
+          "bodo-svolvaer-bodo"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.336522,
+          68.015253
+        ]
+      },
+      "properties": {
+        "quay_ref": "NSR:Quay:84224",
+        "name": "Skutvik hurtigbåtkai",
+        "radius_m": 200.0,
+        "route_ids": [
+          "bodo-svolvaer-bodo"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.566731,
+          68.231434
+        ]
+      },
+      "properties": {
+        "quay_ref": "NSR:Quay:81825",
+        "name": "Svolvær hurtigbåtkai",
+        "radius_m": 200.0,
+        "route_ids": [
+          "bodo-svolvaer-bodo"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.66215,
+          68.16683
+        ]
+      },
+      "properties": {
+        "quay_ref": "NSR:Quay:84915",
+        "name": "Skrova hurtigbåtkai",
+        "radius_m": 200.0,
+        "route_ids": [
+          "bodo-svolvaer-bodo"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.607804,
+          66.360493
+        ]
+      },
+      "properties": {
+        "quay_ref": "NSR:Quay:81139",
+        "name": "Sleneset hurtigbåtkai",
+        "radius_m": 200.0,
+        "route_ids": [
+          "helgelandspendelen"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.37052,
+          66.369108
+        ]
+      },
+      "properties": {
+        "quay_ref": "NSR:Quay:82615",
+        "name": "Lovund hurtigbåtkai",
+        "radius_m": 200.0,
+        "route_ids": [
+          "helgelandspendelen"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.626662,
+          66.369822
+        ]
+      },
+      "properties": {
+        "quay_ref": "NSR:Quay:81999",
+        "name": "Nordsolvær hurtigbåtkai",
+        "radius_m": 200.0,
+        "route_ids": [
+          "helgelandspendelen"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.003363,
+          66.339219
+        ]
+      },
+      "properties": {
+        "quay_ref": "NSR:Quay:82092",
+        "name": "Stokkvågen hurtigbåtkai",
+        "radius_m": 200.0,
+        "route_ids": [
+          "helgelandspendelen"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.724113,
+          67.305525
+        ]
+      },
+      "properties": {
+        "quay_ref": "NSR:Quay:83499",
+        "name": "Givær hurtigbåtkai",
+        "radius_m": 200.0,
+        "route_ids": [
+          "bodo-vaeran"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.009312,
+          67.278011
+        ]
+      },
+      "properties": {
+        "quay_ref": "NSR:Quay:83502",
+        "name": "Bliksvær hurtigbåtkai",
+        "radius_m": 200.0,
+        "route_ids": [
+          "bodo-vaeran",
+          "bodo-gildeskal"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.902388,
+          67.40662
+        ]
+      },
+      "properties": {
+        "quay_ref": "NSR:Quay:85269",
+        "name": "Helligvær hurtigbåtkai",
+        "radius_m": 200.0,
+        "route_ids": [
+          "bodo-vaeran"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.981052,
+          67.429224
+        ]
+      },
+      "properties": {
+        "quay_ref": "NSR:Quay:85275",
+        "name": "Vokkøy hurtigbåtkai",
+        "radius_m": 200.0,
+        "route_ids": [
+          "bodo-vaeran"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.244263,
+          67.389231
+        ]
+      },
+      "properties": {
+        "quay_ref": "NSR:Quay:85278",
+        "name": "Sørlandegode hurtigbåtkai",
+        "radius_m": 200.0,
+        "route_ids": [
+          "bodo-vaeran"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.045862,
+          67.122969
+        ]
+      },
+      "properties": {
+        "quay_ref": "NSR:Quay:84728",
+        "name": "Våg hurtigbåtkai",
+        "radius_m": 200.0,
+        "route_ids": [
+          "bodo-gildeskal"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.022964,
+          67.034735
+        ]
+      },
+      "properties": {
+        "quay_ref": "NSR:Quay:84158",
+        "name": "Inndyr hurtigbåtkai",
+        "radius_m": 200.0,
+        "route_ids": [
+          "bodo-gildeskal"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.85715,
+          67.075748
+        ]
+      },
+      "properties": {
+        "quay_ref": "NSR:Quay:83025",
+        "name": "Nordfugløy hurtigbåtkai",
+        "radius_m": 200.0,
+        "route_ids": [
+          "bodo-gildeskal"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.776319,
+          67.051551
+        ]
+      },
+      "properties": {
+        "quay_ref": "NSR:Quay:87373",
+        "name": "Sørfugløy hurtigbåtkai",
+        "radius_m": 200.0,
+        "route_ids": [
+          "bodo-gildeskal"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.775187,
+          67.171005
+        ]
+      },
+      "properties": {
+        "quay_ref": "NSR:Quay:84815",
+        "name": "Mevær hurtigbåtkai Fleinvær",
+        "radius_m": 200.0,
+        "route_ids": [
+          "bodo-gildeskal"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.766642,
+          67.161817
+        ]
+      },
+      "properties": {
+        "quay_ref": "NSR:Quay:83230",
+        "name": "Sørvær hurtigbåtkai Fleinvær",
+        "radius_m": 200.0,
+        "route_ids": [
+          "bodo-gildeskal"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.824585,
+          66.393049
+        ]
+      },
+      "properties": {
+        "quay_ref": "NSR:Quay:81720",
+        "name": "Onøy ferjekai",
+        "radius_m": 200.0,
+        "route_ids": [
+          "stokkvagen-traena",
+          "stokkvagen-onoy-sleneset-lovund"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.002483,
+          66.339327
+        ]
+      },
+      "properties": {
+        "quay_ref": "NSR:Quay:81716",
+        "name": "Stokkvågen ferjekai",
+        "radius_m": 200.0,
+        "route_ids": [
+          "stokkvagen-traena",
+          "stokkvagen-onoy-sleneset-lovund"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.22093,
+          66.58411
+        ]
+      },
+      "properties": {
+        "quay_ref": "NSR:Quay:82330",
+        "name": "Selvær ferjekai",
+        "radius_m": 200.0,
+        "route_ids": [
+          "stokkvagen-traena"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.102293,
+          66.501624
+        ]
+      },
+      "properties": {
+        "quay_ref": "NSR:Quay:82326",
+        "name": "Træna ferjekai",
+        "radius_m": 200.0,
+        "route_ids": [
+          "stokkvagen-traena"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.370284,
+          66.368837
+        ]
+      },
+      "properties": {
+        "quay_ref": "NSR:Quay:82688",
+        "name": "Lovund ferjekai",
+        "radius_m": 200.0,
+        "route_ids": [
+          "stokkvagen-onoy-sleneset-lovund"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.607839,
+          66.360582
+        ]
+      },
+      "properties": {
+        "quay_ref": "NSR:Quay:81932",
+        "name": "Sleneset ferjekai",
+        "radius_m": 200.0,
+        "route_ids": [
+          "stokkvagen-onoy-sleneset-lovund"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.286787,
+          65.968861
+        ]
+      },
+      "properties": {
+        "quay_ref": "NSR:Quay:82001",
+        "name": "Herøy ferjekai",
+        "radius_m": 200.0,
+        "route_ids": [
+          "sovik-heroy"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.18262,
+          65.91427
+        ]
+      },
+      "properties": {
+        "quay_ref": "NSR:Quay:82005",
+        "name": "Brasøy ferjekai",
+        "radius_m": 200.0,
+        "route_ids": [
+          "sovik-heroy"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.435559,
+          65.926622
+        ]
+      },
+      "properties": {
+        "quay_ref": "NSR:Quay:82019",
+        "name": "Søvik ferjekai",
+        "radius_m": 200.0,
+        "route_ids": [
+          "sovik-heroy"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.32473,
+          65.93195
+        ]
+      },
+      "properties": {
+        "quay_ref": "NSR:Quay:82024",
+        "name": "Austbø ferjekai",
+        "radius_m": 200.0,
+        "route_ids": [
+          "sovik-heroy"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.641849,
+          66.024117
+        ]
+      },
+      "properties": {
+        "quay_ref": "NSR:Quay:82296",
+        "name": "Sandnessjøen ferjekai",
+        "radius_m": 200.0,
+        "route_ids": [
+          "sandnessjoen-donna-lokta"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.585869,
+          66.082278
+        ]
+      },
+      "properties": {
+        "quay_ref": "NSR:Quay:82321",
+        "name": "Bjørn ferjekai Dønna",
+        "radius_m": 200.0,
+        "route_ids": [
+          "sandnessjoen-donna-lokta"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.697535,
+          66.141939
+        ]
+      },
+      "properties": {
+        "quay_ref": "NSR:Quay:81684",
+        "name": "Løkta ferjekai",
+        "radius_m": 200.0,
+        "route_ids": [
+          "sandnessjoen-donna-lokta"
+        ]
+      }
+    }
+  ]
+}
