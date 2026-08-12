@@ -1,0 +1,176 @@
+{
+  "_source": "Built 2026-08-13. Curated by web research (Wikimedia Commons search first per CLAUDE.md convention, falling back to hsc-norway.no -- a Norwegian high-speed-craft enthusiast archive -- Brødrene Aa's own shipbuilder site, and skipsrevyen.no's båtomtaler ferry-review section where no Commons photo existed). Every vessel below was identity-checked against this project's own data/reference/vessel_mmsi_map.json (MMSI/IMO/year-of-build/current-route), not just name-matched -- several candidate photos were rejected or flagged because Norwegian ferry names get reused/cascaded across unrelated routes decades apart (see 'identity_note' per vessel). Images copied into frontend/public/vessels/<slug>.jpg, resized to max 1400px on the long edge and re-encoded at JPEG quality 78 (via macOS `sips`) to keep the repo addition small -- originals were as large as 14MB (Commons full-resolution uploads). Two of the 18 vessels in gold_vessel_reliability.json (Lovund, Lurøy) have NO entry here: no confidently-identifiable real photo of that specific hull was found (see 'not_found' section) -- per task instructions, do not fabricate a stock photo for these.",
+  "_license_key": "license values are the source's own stated license/terms where known (Commons files: their actual license tag; hsc-norway.no/skipsrevyen.no/braa.no: 'no explicit license found', i.e. ordinary copyright with no stated reuse terms -- used anyway per explicit user acceptance of that risk for this internal/private tool). attribution_credit is the photographer/site name to show in the UI tooltip; source_url is the page (not always the raw image) the photo was found on, for traceability.",
+  "vessels": {
+    "Elsa Laula Renberg": {
+      "mmsi": 257058280,
+      "local_path": "/vessels/elsa-laula-renberg.jpg",
+      "source_url": "https://hsc-norway.no/elsa-laula-renberg-2019.html",
+      "image_url": "https://hsc-norway.no/uploads/1/4/6/7/146782671/elsa-laula-renberg-240719-svolv-r-frode-adolfsen_orig.jpg",
+      "attribution_credit": "Photo: Frode Adolfsen, via hsc-norway.no (\"Historie om norske hurtigbåter\")",
+      "license": "no explicit license found",
+      "photo_caption": "MS Elsa Laula Renberg departing Svolvær, 24 July 2019",
+      "identity_note": "Direct name+MMSI match, no ambiguity -- purpose-built 2019 Brødrene Aa newbuild, only one vessel of this name."
+    },
+    "Regine Normann": {
+      "mmsi": 257058290,
+      "local_path": "/vessels/regine-normann.jpg",
+      "source_url": "https://hsc-norway.no/regine-normann-2019.html",
+      "image_url": "https://hsc-norway.no/uploads/1/4/6/7/146782671/regine-normann-bod-nor-03-07-2023-bod-bild2-foto-uwe-jakob_orig.jpg",
+      "attribution_credit": "Photo: Uwe Jakob, via hsc-norway.no (\"Historie om norske hurtigbåter\")",
+      "license": "no explicit license found",
+      "photo_caption": "MS Regine Normann arriving Bodø, 3 July 2023",
+      "identity_note": "Direct name+MMSI match, no ambiguity -- purpose-built 2019 Brødrene Aa newbuild, sister ship to Elsa Laula Renberg."
+    },
+    "Fredrikke Tønder-Olsen": {
+      "mmsi": 257125290,
+      "local_path": "/vessels/fredrikke-tonder-olsen.jpg",
+      "source_url": "https://hsc-norway.no/fredrikke-toslashnder-olsen-2021.html",
+      "image_url": "https://hsc-norway.no/uploads/1/4/6/7/146782671/fredrikke-t-nder-olsen-bod-nor-04-07-2023-stokkv-gen-bild3-foto-uwe-jakob_orig.jpg",
+      "attribution_credit": "Photo: Uwe Jakob, via hsc-norway.no (\"Historie om norske hurtigbåter\")",
+      "license": "no explicit license found",
+      "photo_caption": "MS Fredrikke Tønder-Olsen arriving Stokkvågen, 4 July 2023",
+      "identity_note": "Direct name+MMSI match, no ambiguity -- purpose-built Brødrene Aa carbon-fibre catamaran, only one vessel of this name."
+    },
+    "Jernøy": {
+      "mmsi": 258349000,
+      "local_path": "/vessels/jernoy.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:2023-05-17_02_JERNOY_(JERN%C3%98Y)_-_IMO_9429766_-_Hus%C3%B8ya,_Norway.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/2023-05-17_02_JERNOY_%28JERN%C3%98Y%29_-_IMO_9429766_-_Hus%C3%B8ya%2C_Norway.jpg",
+      "attribution_credit": "Photo: Gordon Leggett, via Wikimedia Commons",
+      "license": "CC BY 4.0",
+      "photo_caption": "High-speed passenger ferry Jernøy (IMO 9429766) leaving Husøya, Træna archipelago, Nordland, 17 May 2023",
+      "identity_note": "Caption states IMO 9429766 and MMSI 258349000 explicitly -- exact match to vessel_mmsi_map.json's Jernøy entry, taken at one of this project's own route's real quays."
+    },
+    "Fjordstrøm": {
+      "mmsi": 259026700,
+      "local_path": "/vessels/fjordstrom.jpg",
+      "source_url": "https://batomtaler.skipsrevyen.no/brodrene-aa-fjordstrom-norled/ms-fjordstrom/1733527",
+      "image_url": "https://image.skipsrevyen.no/1733532.jpg?imageId=1733532&x=0.00&y=20.32&cropw=100.00&croph=79.68&width=960&height=510&format=jpg",
+      "attribution_credit": "Photo: Brødrene Aa (shipyard), via skipsrevyen.no båtomtaler",
+      "license": "no explicit license found",
+      "photo_caption": "MS Fjordstrøm underway on the Bodø-Gildeskål-Væran route",
+      "identity_note": "Direct name+MMSI match, no ambiguity -- purpose-built 2024 Brødrene Aa newbuild for Norled's Bodø-area contract, only one vessel of this name."
+    },
+    "Fjordtind": {
+      "mmsi": 259026800,
+      "local_path": "/vessels/fjordtind.jpg",
+      "source_url": "https://batomtaler.skipsrevyen.no/brodrene-aa-fjordtind-norled/ms-fjordtind/1776069",
+      "image_url": "https://image.skipsrevyen.no/1776075.jpg?imageId=1776075&width=960&height=548&format=jpg",
+      "attribution_credit": "Photo: Ola Johannesen, via skipsrevyen.no båtomtaler",
+      "license": "no explicit license found",
+      "photo_caption": "MS Fjordtind underway on the Bodø-Gildeskål route",
+      "identity_note": "Direct name+MMSI match, no ambiguity -- purpose-built 2024 Brødrene Aa newbuild, sister ship to Fjordstrøm."
+    },
+    "Bre": {
+      "mmsi": 257131560,
+      "local_path": "/vessels/bre.jpg",
+      "source_url": "https://www.braa.no/news/nytt-hybridfarty-til-bodo-med-dobbeltfunksjon",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/65c334850671db1032629f8f/1707301874347-BD751IV41P36T1HYGJGQ/Ms-Bre.jpg",
+      "attribution_credit": "Photo: Brødrene Aa (shipyard/builder's own site, braa.no)",
+      "license": "no explicit license found",
+      "photo_caption": "MS Bre, hybrid-electric reserve vessel for Bodø-Væran/Bodø-Gildeskål (also a Brim Explorer sightseeing boat off-season)",
+      "identity_note": "Direct name+MMSI match, no ambiguity -- same builder announcement already cited as this vessel's primary source in vessel_mmsi_map.json."
+    },
+    "Herøysund": {
+      "mmsi": 258691000,
+      "local_path": "/vessels/heroysund.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:MF_%C2%ABHer%C3%B8ysund%C2%BB.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/MF_%C2%ABHer%C3%B8ysund%C2%BB.jpg",
+      "attribution_credit": "Photo: Svein Bj, via Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "photo_caption": "MF «Herøysund» at Søvik, 23 July 2021",
+      "identity_note": "Only one Norwegian ferry named Herøysund; independently confirmed via skipsrevyen.no's own vessel-review page (skipsrevyen.no/mf-heroysund) as one of the Stokkvågen-Lovund-Træna route's 4 sister vessels, christened 2013 alongside Husøy/Lovund/Tenna."
+    },
+    "Husøy": {
+      "mmsi": 258695000,
+      "local_path": "/vessels/husoy.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:2023-05-17_01_MF_HUSOY_(HUS%C3%98Y)_-_IMO_9663403_%E2%80%93_Hus%C3%B8ya,_Norway.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/2023-05-17_01_MF_HUSOY_%28HUS%C3%98Y%29_-_IMO_9663403_%E2%80%93_Hus%C3%B8ya%2C_Norway.jpg",
+      "attribution_credit": "Photo: Gordon Leggett, via Wikimedia Commons",
+      "license": "CC BY 4.0",
+      "photo_caption": "RORO passenger ferry Husøy (IMO 9663403) in harbor at Husøya, Træna archipelago, Nordland, 17 May 2023",
+      "identity_note": "Caption states IMO 9663403 and MMSI 258695000 explicitly -- exact match to vessel_mmsi_map.json's Husøy entry, taken at one of this project's own route's real quays (before its 2025-10-12 reassignment to Hasvik-Øksfjord)."
+    },
+    "Tenna": {
+      "mmsi": 258696000,
+      "local_path": "/vessels/tenna.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:MF_%C2%ABTenna%C2%BB_ved_S%C3%B8vik.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/MF_%C2%ABTenna%C2%BB_ved_S%C3%B8vik.jpg",
+      "attribution_credit": "Photo: Svein Bj, via Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "photo_caption": "MF «Tenna» at Søvik, 23 July 2021",
+      "identity_note": "Only one Norwegian ferry named Tenna in this size/class; independently confirmed via skipsrevyen.no's own vessel-review page as one of the same 4 Helgeland sister vessels (christened 2013 alongside Husøy/Lovund/Herøysund). vessel_mmsi_map.json flags this specific hull as 'unresolved' for the Stokkvågen-Lovund-Træna route in the 2025 window (AIS evidence puts it in Troms all year) -- this photo is still a correct, real photo of the physical ship named Tenna, just not evidence it operated this route in 2025."
+    },
+    "Sigrid": {
+      "mmsi": 257243500,
+      "local_path": "/vessels/sigrid.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:9030369_Sigrid_1992.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/9030369_Sigrid_1992.jpg",
+      "attribution_credit": "Photo: Cavernia, via Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "photo_caption": "«Sigrid» in Korsfjorden, 15 April 2021",
+      "identity_note": "Commons filename embeds IMO 9030369, cross-checked live: vesseltracker.com/vesselfinder both resolve IMO 9030369 to MMSI 257243500, home port Sandnessjøen, operator Boreal Sjø -- exact match to vessel_mmsi_map.json's Sigrid entry. Photo predates its move to the Sandnessjøen area (Korsfjorden is near Bergen) but is confirmed the same hull."
+    },
+    "Folgefonn": {
+      "mmsi": 259530000,
+      "local_path": "/vessels/folgefonn.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Folgefonn(1998).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Folgefonn%281998%29.jpg",
+      "attribution_credit": "Photo: Harald Sætre, via Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "photo_caption": "MF Folgefonn, built 1998, en route between Hatvik and Vengjaneset (Hordaland), 1998",
+      "identity_note": "MEDIUM confidence: matched on name + exact build year (1998) + vessel class (76-car symmetrical shuttle ferry), corroborated by independent web search confirming MF Folgefonn (1998-built, 76 cars/200 passengers) is the named main vessel on the Sandnessjøen-Dønna-Løkta route today. No IMO cross-check was available for this vessel in vessel_mmsi_map.json to confirm the exact same hull (unlike Høgsfjord/Hjelmeland/Sigrid/Sjernarøy below). Two other, older, unrelated ferries also named Folgefonn exist on Commons (1930s/40s Hardanger vessels) and were excluded -- this is the only 1998-built one. Photo predates the vessel's move to Nordland (taken in Hardanger, its original service area) -- same likely reasoning as the Rogaland-origin vessels below (cascaded north after retirement from a busier route), but treat this identification as slightly less certain than the others in this file."
+    },
+    "Sjernaroy": {
+      "mmsi": 259593000,
+      "local_path": "/vessels/sjernaroy.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sjernaroy1.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Sjernaroy1.jpg",
+      "attribution_credit": "Photo: Toyni Tobekk, via Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "photo_caption": "«Sjernarøy» ferry, near Hebnes, Ryfylke, 21 May 2008",
+      "identity_note": "Cross-checked live: marinetraffic.com/vesselfinder/myshiptracking all resolve IMO 9192480 to MMSI 259593000, current location Sandnessjøen -- exact match to vessel_mmsi_map.json's Sjernaroy entry (built 1999). Photo predates its move north (Hebnes/Ryfylke is in Rogaland, the ferry's namesake and original service area, Sjernarøyane) but is confirmed the same hull via IMO."
+    },
+    "Vikingen": {
+      "mmsi": 257029700,
+      "local_path": "/vessels/vikingen.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:MF_Vikingen.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/MF_Vikingen.jpg",
+      "attribution_credit": "Photo: Marius Vassnes, via Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "photo_caption": "MF Vikingen in Bjørnafjorden, 19 January 2021",
+      "identity_note": "Cross-checked: Norwegian Wikipedia's MF «Vikingen» (1992) article confirms a car ferry built 1992 for Hardanger Sunnhordlandske Dampskipsselskap that later served Stavanger-Tau (2006-2012) and Skjersholmane-Ranavik (2017-2019) before Fjord1 took over that route -- and an Alamy stock photo independently places 'Norled MF Vikingen' at Sandnessjøen, matching vessel_mmsi_map.json's reserve-vessel-for-Sandnessjøen-Dønna-Løkta entry. This 2021 Commons photo (Bjørnafjorden, near Bergen) is from during that transition period, same hull."
+    },
+    "Høgsfjord": {
+      "mmsi": 257288400,
+      "local_path": "/vessels/hogsfjord.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:MF_H%C3%B8gsfjord_ved_Lauvikkai.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/MF_H%C3%B8gsfjord_ved_Lauvikkai.jpg",
+      "attribution_credit": "Photo: Hallvard Nygård, via Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "photo_caption": "MF Høgsfjord at the quay in Lauvik, Rogaland, 18 August 2006",
+      "identity_note": "Cross-checked live: vesselfinder.com/marinetraffic.com both resolve IMO 9055759 to MMSI 257288400 -- exact match to vessel_mmsi_map.json's Høgsfjord entry (built 1992, main vessel on the Søvik-Herøy route). The vessel is named for Høgsfjorden, a Rogaland fjord it originally served (Lauvik-Oanes) -- this 2006 photo is from that original posting, before its later relocation to the Helgeland coast (Søvik-Herøy) as older tonnage cascaded north. Same physical hull, confirmed by IMO."
+    },
+    "Hjelmeland": {
+      "mmsi": 257282400,
+      "local_path": "/vessels/hjelmeland.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:MF_%C2%ABHjelmeland%C2%BB.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/MF_%C2%ABHjelmeland%C2%BB.jpg",
+      "attribution_credit": "Photo: Svein Bj, via Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "photo_caption": "MF «Hjelmeland» at Hjelmeland, Rogaland, 2 March 2021",
+      "identity_note": "IMPORTANT DISAMBIGUATION (flagged in vessel_mmsi_map.json itself): 'Hjelmeland' is also the name of an unrelated Rogaland ferry route (Hjelmeland-Nesvik-Skipavik) that historically used a same-named vessel -- but this Commons file was reached via Wikimedia's own 'Category:IMO 9055747', and vesselfinder.com/marinetraffic.com independently confirm IMO 9055747 = MMSI 257282400, an exact match to vessel_mmsi_map.json's Hjelmeland entry (built 1993, sister ship to Høgsfjord, moved to the Søvik-Herøy route October 2024). Same cascading-relocation pattern as Høgsfjord/Sjernarøy/Vikingen above: this photo is from the vessel's original Rogaland posting, same confirmed hull."
+    }
+  },
+  "not_found": {
+    "Lovund": {
+      "mmsi": 258694000,
+      "note": "No confidently-identifiable real photo found. Searched Wikimedia Commons (name and IMO 9664471 category, both empty), skipsrevyen.no's båtomtaler (the combined Husøy-Lovund review page's only image is captioned as sister ship Herøysund, not Lovund itself), ferry-site.dk (has no separate Lovund entry found), shipspotting.com, and Norwegian Wikipedia's route article (only has a harbor photo, no vessel photo). Not fabricated -- left without an image per task instructions."
+    },
+    "Luroy": {
+      "mmsi": 257127000,
+      "note": "No confidently-identifiable real, freely-reusable photo found. ferry-site.dk (ferry.php?id=9221047) has 4 real photos credited to Frans Truyens, but that site explicitly states 'Photos on this site may not be used on other websites... without written permission from the photographer' -- a direct prohibition on exactly this reuse, so not used despite being a real, identified photo of this specific hull (IMO 9221047). No other source with a usable photo was found (Commons IMO 9221047 category is empty; skipsrevyen.no has no dedicated Lurøy review page). Left without an image rather than violate the source's explicit terms."
+    }
+  }
+}
