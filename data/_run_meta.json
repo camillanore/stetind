@@ -1,7 +1,7 @@
 {
   "script": "scripts/build_gold.py",
   "function": "pipeline.gold.build_all_gold",
-  "generated_at_utc": "2026-08-12T20:56:24.356332+00:00",
+  "generated_at_utc": "2026-08-13T03:15:53.142968+00:00",
   "files": {
     "gold_summary_kpi.json": {
       "record_count": 9,
