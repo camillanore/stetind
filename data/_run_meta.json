@@ -1,7 +1,7 @@
 {
   "script": "scripts/build_gold.py",
   "function": "pipeline.gold.build_all_gold",
-  "generated_at_utc": "2026-08-13T03:15:53.142968+00:00",
+  "generated_at_utc": "2026-08-13T06:03:22.509436+00:00",
   "files": {
     "gold_summary_kpi.json": {
       "record_count": 9,
@@ -29,13 +29,13 @@
     },
     "gold_ais_track_points.json": {
       "record_count": 1804529,
-      "bytes": 32152431
+      "bytes": 32152418
     },
     "ais_tracks/": {
-      "record_count": 34374799,
-      "bytes": 1919266885,
+      "record_count": 34374760,
+      "bytes": 1919264692,
       "file_count": 30078
     }
   },
-  "total_record_count": 36217857
+  "total_record_count": 36217818
 }
