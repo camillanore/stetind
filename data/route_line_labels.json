@@ -1,0 +1,69 @@
+{
+  "_source": "Built 2026-08-13 for the AIS-dashboard redesign (design_handoff_ais_dashboard/README.md). Two source types: (1) Reis Nordland's official 'Hovedforbindelser i Nordland / Main connections in Nordland' 2025 line map (reisnordland.no, cartography TrulsLangeCivitas, dated 2025-04-28, supplied by the user as an image -- not saved to this repo as a binary since Claude Code has no tool to extract raw bytes from a pasted chat image, only cite it), cross-referenced against (2) live web search of reisnordland.no/boreal.no/rv17.no route pages for each contract's internal Nordland fylkeskommune route code (the '18-XXX' family that also appears in this repo's NeTEx filenames, see CLAUDE.md's contract table). These two numbering systems are different: 'official_line_label' is the short public-facing number/name riders see on the map and timetable (e.g. 'NEX 1', '100'); 'internal_contract_code' is the fylkeskommune's longer administrative route code, useful for provenance but never shown to a dashboard viewer as a badge.",
+  "_correction_note": "The design brief's own Design Tokens table paired 'Bodø–Væran' with NEX 1 and 'Herøy–Dønna' with '704' -- both wrong on cross-check. NEX 1 (red) is actually the long Bodø–Sørarnøy–Stokkvågen–Nesna–Sandnessjøen–Brønnøysund line, i.e. this repo's bodo-helgeland route (matches CLAUDE.md's own NOR-Line-3731_23-731_Bodo-Helgeland.xml candidate). '704' is the Brønnøysund–Sandnessjøen bus route along Kystriksvegen (FV17) -- a bus, not the Herøy–Dønna car ferry, and geographically/modally unrelated. Corrected below; route colors in frontend/src/lib/routeHelpers.ts follow this file, not the mockup's literal pairing.",
+  "routes": {
+    "bodo-helgeland": {
+      "official_line_label": "NEX 1",
+      "color": "#e0293f",
+      "confidence": "confirmed",
+      "internal_contract_code": "23-731",
+      "note": "Nordlandsekspressen 1. Confirmed both from the real 2025 line map (red NEX1 line runs Bodø-Sørarnøy-Stokkvågen-Nesna-Sandnessjøen-Brønnøysund) and CLAUDE.md's own NeTEx filename candidate -- corrects the design brief, which mislabeled this pairing as 'Bodø–Væran'."
+    },
+    "bodo-svolvaer-bodo": {
+      "official_line_label": "NEX 2",
+      "color": "#f0812e",
+      "confidence": "confirmed",
+      "internal_contract_code": "23-755",
+      "note": "Nordlandsekspressen 2, Bodø-Bogøy-Skutvik-Svolvær-Bodø. Matches both the design brief and the real map's orange NEX2 line -- the one design-brief pairing that checked out as given."
+    },
+    "bodo-gildeskal": {
+      "official_line_label": "100",
+      "color": "#29b6e0",
+      "confidence": "candidate",
+      "internal_contract_code": "18-445",
+      "note": "Design brief's stated pairing. '100' is reused across several disconnected Nordland corridors (also a Bodø-Fauske-Narvik bus line, also a Harstad-Tromsø boat line per Nordland's route-numbering convention of reusing short numbers per region), and web search did not turn up a page pairing '100' specifically with the Bodø-Gildeskål hurtigbåt -- plausible given the map's geography, not independently confirmed. Internal contract code 18-445 IS confirmed."
+    },
+    "bodo-vaeran": {
+      "official_line_label": null,
+      "color": "#eda100",
+      "confidence": "unresolved",
+      "internal_contract_code": "18-539",
+      "note": "Local hurtigbåt (6 stops: Bodø, Givær, Helligvær, Vokkøy, Sørlandegode, Bliksvær), confirmed internal code 18-539, but no distinct colored public line-number badge found on the 2025 overview map or in search -- likely too local a route to feature its own number on a county-wide 'main connections' map. Plain route-name badge, no pill."
+    },
+    "helgelandspendelen": {
+      "official_line_label": null,
+      "color": "#1baf7a",
+      "confidence": "unresolved",
+      "internal_contract_code": "18-191",
+      "note": "Sandnessjøen-Træna-Lovund-Sleneset commuter hurtigbåt (per Boreal's own route page), confirmed internal code 18-191, but referred to by name rather than a distinct public number anywhere found. Plain route-name badge, no pill."
+    },
+    "stokkvagen-traena": {
+      "official_line_label": null,
+      "color": "#008300",
+      "confidence": "unresolved",
+      "internal_contract_code": "18-192",
+      "note": "Stokkvågen-Træna ferge. Confirmed internal code 18-192; car ferry routes on the 2025 map appear to use a dashed/grey style with an 'F'-prefixed number (like 'F782' near Værøy/Røst) rather than a bold colored pill, and Træna's own short link wasn't distinctly labeled at overview scale. Plain route-name badge, no pill."
+    },
+    "stokkvagen-onoy-sleneset-lovund": {
+      "official_line_label": null,
+      "color": "#4a3aa7",
+      "confidence": "unresolved",
+      "internal_contract_code": "18-344",
+      "note": "Stokkvågen-Onøy-Sleneset-Lovund ferge. Confirmed internal code 18-344; same car-ferry labeling caveat as stokkvagen-traena. Plain route-name badge, no pill."
+    },
+    "sovik-heroy": {
+      "official_line_label": null,
+      "color": "#e87ba4",
+      "confidence": "unresolved",
+      "internal_contract_code": "18-171",
+      "note": "Søvik-Austbø-Herøy-Brasøy ferge. Confirmed internal code 18-171; positively NOT '704' (that's the unrelated Brønnøysund-Sandnessjøen bus, see _correction_note) -- no genuine public line-number badge found for this ferry. Color reassigned away from the old series-8 red now that bodo-helgeland occupies NEX1's near-identical red, re-validated with scripts/validate_palette.js (all 6 checks pass). Plain route-name badge, no pill."
+    },
+    "sandnessjoen-donna-lokta": {
+      "official_line_label": null,
+      "color": "#7c3aed",
+      "confidence": "unresolved",
+      "internal_contract_code": "18-181",
+      "note": "Sandnessjøen-Dønna-Løkta ferge (M/F 'Møysalen'). Confirmed internal code 18-181; positively NOT '704' (see _correction_note). Color unchanged from the existing slot-9 addition. Plain route-name badge, no pill."
+    }
+  }
+}
