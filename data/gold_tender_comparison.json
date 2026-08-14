@@ -7,11 +7,11 @@
       "contract_number": 1,
       "contract_name_no": "Hurtigbåt Nordlandsekspressen 1 & 2",
       "pipeline_2025": {
-        "cancellation_days": 220,
+        "cancellation_days": 164,
         "delay_days": 14,
         "avg_delay_min": 278.2,
         "median_delay_min": 359.0,
-        "weather_share_pct_of_disruptions": 2.2,
+        "weather_share_pct_of_disruptions": 2.3,
         "ais_coverage": "full",
         "method_note": "cancellation_days/delay_days = distinct 2025 calendar dates with >=1 trip in that status, from this pipeline's own AIS-vs-schedule matching -- not directly comparable methodology to NF17-2025's operator-self-reported avviksrapporter (see tender_context below). avg_delay_min is a simple mean, kept only for direct comparability with NF17's own mean-based figure -- it is skewed upward by a small number of severe (multi-hour) delays. median_delay_min is the more representative 'typical delayed trip' figure; prefer it when NF17 context isn't in view."
       },
@@ -47,7 +47,7 @@
       "contract_number": 1,
       "contract_name_no": "Hurtigbåt Nordlandsekspressen 1 & 2",
       "pipeline_2025": {
-        "cancellation_days": 255,
+        "cancellation_days": 199,
         "delay_days": 55,
         "avg_delay_min": 116.6,
         "median_delay_min": 57.3,
@@ -89,11 +89,11 @@
       "contract_number": 1,
       "contract_name_no": "Hurtigbåt Helgelandspendelen",
       "pipeline_2025": {
-        "cancellation_days": 241,
+        "cancellation_days": 202,
         "delay_days": 50,
         "avg_delay_min": 201.3,
         "median_delay_min": 92.9,
-        "weather_share_pct_of_disruptions": 1.1,
+        "weather_share_pct_of_disruptions": 1.0,
         "ais_coverage": "full",
         "method_note": "cancellation_days/delay_days = distinct 2025 calendar dates with >=1 trip in that status, from this pipeline's own AIS-vs-schedule matching -- not directly comparable methodology to NF17-2025's operator-self-reported avviksrapporter (see tender_context below). avg_delay_min is a simple mean, kept only for direct comparability with NF17's own mean-based figure -- it is skewed upward by a small number of severe (multi-hour) delays. median_delay_min is the more representative 'typical delayed trip' figure; prefer it when NF17 context isn't in view."
       },
@@ -106,11 +106,11 @@
       "contract_number": 2,
       "contract_name_no": "Hurtigbåt Væran og Gildeskål",
       "pipeline_2025": {
-        "cancellation_days": 203,
-        "delay_days": 311,
-        "avg_delay_min": 96.9,
-        "median_delay_min": 64.5,
-        "weather_share_pct_of_disruptions": 2.6,
+        "cancellation_days": 177,
+        "delay_days": 265,
+        "avg_delay_min": 97.1,
+        "median_delay_min": 41.7,
+        "weather_share_pct_of_disruptions": 3.1,
         "ais_coverage": "full",
         "method_note": "cancellation_days/delay_days = distinct 2025 calendar dates with >=1 trip in that status, from this pipeline's own AIS-vs-schedule matching -- not directly comparable methodology to NF17-2025's operator-self-reported avviksrapporter (see tender_context below). avg_delay_min is a simple mean, kept only for direct comparability with NF17's own mean-based figure -- it is skewed upward by a small number of severe (multi-hour) delays. median_delay_min is the more representative 'typical delayed trip' figure; prefer it when NF17 context isn't in view."
       },
@@ -123,11 +123,11 @@
       "contract_number": 2,
       "contract_name_no": "Hurtigbåt Væran og Gildeskål",
       "pipeline_2025": {
-        "cancellation_days": 265,
-        "delay_days": 117,
-        "avg_delay_min": 112.8,
-        "median_delay_min": 88.7,
-        "weather_share_pct_of_disruptions": 2.9,
+        "cancellation_days": 199,
+        "delay_days": 102,
+        "avg_delay_min": 124.4,
+        "median_delay_min": 92.6,
+        "weather_share_pct_of_disruptions": 3.2,
         "ais_coverage": "full",
         "method_note": "cancellation_days/delay_days = distinct 2025 calendar dates with >=1 trip in that status, from this pipeline's own AIS-vs-schedule matching -- not directly comparable methodology to NF17-2025's operator-self-reported avviksrapporter (see tender_context below). avg_delay_min is a simple mean, kept only for direct comparability with NF17's own mean-based figure -- it is skewed upward by a small number of severe (multi-hour) delays. median_delay_min is the more representative 'typical delayed trip' figure; prefer it when NF17 context isn't in view."
       },
@@ -140,11 +140,11 @@
       "contract_number": 3,
       "contract_name_no": "Ferge Stokkvågen – Lovund – Træna",
       "pipeline_2025": {
-        "cancellation_days": 235,
-        "delay_days": 132,
-        "avg_delay_min": 245.9,
-        "median_delay_min": 296.4,
-        "weather_share_pct_of_disruptions": 0.6,
+        "cancellation_days": 206,
+        "delay_days": 99,
+        "avg_delay_min": 286.9,
+        "median_delay_min": 302.5,
+        "weather_share_pct_of_disruptions": 0.5,
         "ais_coverage": "full",
         "method_note": "cancellation_days/delay_days = distinct 2025 calendar dates with >=1 trip in that status, from this pipeline's own AIS-vs-schedule matching -- not directly comparable methodology to NF17-2025's operator-self-reported avviksrapporter (see tender_context below). avg_delay_min is a simple mean, kept only for direct comparability with NF17's own mean-based figure -- it is skewed upward by a small number of severe (multi-hour) delays. median_delay_min is the more representative 'typical delayed trip' figure; prefer it when NF17 context isn't in view."
       },
@@ -157,10 +157,10 @@
       "contract_number": 3,
       "contract_name_no": "Ferge Stokkvågen – Lovund – Træna",
       "pipeline_2025": {
-        "cancellation_days": 303,
-        "delay_days": 175,
-        "avg_delay_min": 167.0,
-        "median_delay_min": 99.0,
+        "cancellation_days": 283,
+        "delay_days": 90,
+        "avg_delay_min": 250.2,
+        "median_delay_min": 204.0,
         "weather_share_pct_of_disruptions": 0.6,
         "ais_coverage": "full",
         "method_note": "cancellation_days/delay_days = distinct 2025 calendar dates with >=1 trip in that status, from this pipeline's own AIS-vs-schedule matching -- not directly comparable methodology to NF17-2025's operator-self-reported avviksrapporter (see tender_context below). avg_delay_min is a simple mean, kept only for direct comparability with NF17's own mean-based figure -- it is skewed upward by a small number of severe (multi-hour) delays. median_delay_min is the more representative 'typical delayed trip' figure; prefer it when NF17 context isn't in view."
@@ -174,11 +174,11 @@
       "contract_number": 4,
       "contract_name_no": "Ferge Herøy – Dønna (incl. Sandnessjøen–Bjørn–Løkta)",
       "pipeline_2025": {
-        "cancellation_days": 259,
+        "cancellation_days": 212,
         "delay_days": 365,
-        "avg_delay_min": 53.8,
-        "median_delay_min": 28.3,
-        "weather_share_pct_of_disruptions": 0.1,
+        "avg_delay_min": 48.8,
+        "median_delay_min": 26.2,
+        "weather_share_pct_of_disruptions": 0.0,
         "ais_coverage": "full",
         "method_note": "cancellation_days/delay_days = distinct 2025 calendar dates with >=1 trip in that status, from this pipeline's own AIS-vs-schedule matching -- not directly comparable methodology to NF17-2025's operator-self-reported avviksrapporter (see tender_context below). avg_delay_min is a simple mean, kept only for direct comparability with NF17's own mean-based figure -- it is skewed upward by a small number of severe (multi-hour) delays. median_delay_min is the more representative 'typical delayed trip' figure; prefer it when NF17 context isn't in view."
       },
@@ -191,10 +191,10 @@
       "contract_number": 4,
       "contract_name_no": "Ferge Herøy – Dønna (incl. Sandnessjøen–Bjørn–Løkta)",
       "pipeline_2025": {
-        "cancellation_days": 265,
+        "cancellation_days": 245,
         "delay_days": 365,
-        "avg_delay_min": 74.3,
-        "median_delay_min": 35.9,
+        "avg_delay_min": 76.3,
+        "median_delay_min": 37.0,
         "weather_share_pct_of_disruptions": 0.0,
         "ais_coverage": "full",
         "method_note": "cancellation_days/delay_days = distinct 2025 calendar dates with >=1 trip in that status, from this pipeline's own AIS-vs-schedule matching -- not directly comparable methodology to NF17-2025's operator-self-reported avviksrapporter (see tender_context below). avg_delay_min is a simple mean, kept only for direct comparability with NF17's own mean-based figure -- it is skewed upward by a small number of severe (multi-hour) delays. median_delay_min is the more representative 'typical delayed trip' figure; prefer it when NF17 context isn't in view."
