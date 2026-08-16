@@ -1,7 +1,7 @@
 {
   "script": "scripts/build_gold.py",
   "function": "pipeline.gold.build_all_gold",
-  "generated_at_utc": "2026-08-15T00:55:05.099371+00:00",
+  "generated_at_utc": "2026-08-16T21:13:33.236043+00:00",
   "files": {
     "gold_summary_kpi.json": {
       "record_count": 9,
@@ -9,7 +9,7 @@
     },
     "gold_triangulated_trips.json": {
       "record_count": 30384,
-      "bytes": 27416911
+      "bytes": 31008052
     },
     "route_geofences.geojson": {
       "record_count": 55,
@@ -17,7 +17,7 @@
     },
     "gold_disruption_timeline.json": {
       "record_count": 460,
-      "bytes": 138617
+      "bytes": 138613
     },
     "gold_tender_comparison.json": {
       "record_count": 9,

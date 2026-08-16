@@ -153,10 +153,10 @@
       "period_end": "2025-03-23",
       "cancelled": 12,
       "delayed": 0,
-      "weather": 0,
+      "weather": 1,
       "operational": 0,
       "ambiguous": 0,
-      "unclassified": 12
+      "unclassified": 11
     },
     {
       "route_id": "bodo-helgeland",
@@ -595,10 +595,10 @@
       "period_end": "2025-12-28",
       "cancelled": 8,
       "delayed": 2,
-      "weather": 0,
+      "weather": 1,
       "operational": 0,
       "ambiguous": 0,
-      "unclassified": 10
+      "unclassified": 9
     },
     {
       "route_id": "bodo-helgeland",
@@ -647,10 +647,10 @@
       "period_end": "2025-01-19",
       "cancelled": 13,
       "delayed": 0,
-      "weather": 1,
+      "weather": 2,
       "operational": 0,
       "ambiguous": 0,
-      "unclassified": 12
+      "unclassified": 11
     },
     {
       "route_id": "bodo-svolvaer-bodo",
@@ -660,10 +660,10 @@
       "period_end": "2025-01-26",
       "cancelled": 9,
       "delayed": 1,
-      "weather": 0,
+      "weather": 1,
       "operational": 0,
       "ambiguous": 0,
-      "unclassified": 10
+      "unclassified": 9
     },
     {
       "route_id": "bodo-svolvaer-bodo",
@@ -686,10 +686,10 @@
       "period_end": "2025-02-09",
       "cancelled": 8,
       "delayed": 1,
-      "weather": 2,
+      "weather": 3,
       "operational": 0,
       "ambiguous": 0,
-      "unclassified": 7
+      "unclassified": 6
     },
     {
       "route_id": "bodo-svolvaer-bodo",
@@ -764,10 +764,10 @@
       "period_end": "2025-04-06",
       "cancelled": 9,
       "delayed": 1,
-      "weather": 0,
+      "weather": 2,
       "operational": 0,
       "ambiguous": 0,
-      "unclassified": 10
+      "unclassified": 8
     },
     {
       "route_id": "bodo-svolvaer-bodo",
@@ -1180,10 +1180,10 @@
       "period_end": "2025-11-30",
       "cancelled": 11,
       "delayed": 0,
-      "weather": 0,
+      "weather": 1,
       "operational": 0,
       "ambiguous": 0,
-      "unclassified": 11
+      "unclassified": 10
     },
     {
       "route_id": "bodo-svolvaer-bodo",
@@ -1232,10 +1232,10 @@
       "period_end": "2025-12-28",
       "cancelled": 6,
       "delayed": 1,
-      "weather": 1,
+      "weather": 2,
       "operational": 0,
       "ambiguous": 0,
-      "unclassified": 6
+      "unclassified": 5
     },
     {
       "route_id": "bodo-svolvaer-bodo",
@@ -1258,10 +1258,10 @@
       "period_end": "2025-01-05",
       "cancelled": 9,
       "delayed": 0,
-      "weather": 0,
+      "weather": 1,
       "operational": 0,
       "ambiguous": 0,
-      "unclassified": 9
+      "unclassified": 8
     },
     {
       "route_id": "helgelandspendelen",
@@ -1284,10 +1284,10 @@
       "period_end": "2025-01-19",
       "cancelled": 25,
       "delayed": 2,
-      "weather": 1,
+      "weather": 5,
       "operational": 0,
       "ambiguous": 0,
-      "unclassified": 26
+      "unclassified": 22
     },
     {
       "route_id": "helgelandspendelen",
@@ -1323,10 +1323,10 @@
       "period_end": "2025-02-09",
       "cancelled": 9,
       "delayed": 0,
-      "weather": 0,
+      "weather": 2,
       "operational": 0,
       "ambiguous": 0,
-      "unclassified": 9
+      "unclassified": 7
     },
     {
       "route_id": "helgelandspendelen",
@@ -1375,10 +1375,10 @@
       "period_end": "2025-03-09",
       "cancelled": 7,
       "delayed": 2,
-      "weather": 0,
+      "weather": 1,
       "operational": 0,
       "ambiguous": 0,
-      "unclassified": 9
+      "unclassified": 8
     },
     {
       "route_id": "helgelandspendelen",
@@ -1427,10 +1427,10 @@
       "period_end": "2025-04-06",
       "cancelled": 9,
       "delayed": 1,
-      "weather": 0,
+      "weather": 1,
       "operational": 0,
       "ambiguous": 0,
-      "unclassified": 10
+      "unclassified": 9
     },
     {
       "route_id": "helgelandspendelen",
@@ -1882,10 +1882,10 @@
       "period_end": "2025-12-07",
       "cancelled": 9,
       "delayed": 1,
-      "weather": 0,
+      "weather": 1,
       "operational": 0,
       "ambiguous": 0,
-      "unclassified": 10
+      "unclassified": 9
     },
     {
       "route_id": "helgelandspendelen",
@@ -1921,10 +1921,10 @@
       "period_end": "2025-12-28",
       "cancelled": 15,
       "delayed": 0,
-      "weather": 4,
+      "weather": 7,
       "operational": 0,
       "ambiguous": 0,
-      "unclassified": 11
+      "unclassified": 8
     },
     {
       "route_id": "helgelandspendelen",
@@ -1934,10 +1934,10 @@
       "period_end": "2026-01-04",
       "cancelled": 9,
       "delayed": 0,
-      "weather": 0,
+      "weather": 2,
       "operational": 0,
       "ambiguous": 0,
-      "unclassified": 9
+      "unclassified": 7
     },
     {
       "route_id": "bodo-vaeran",
@@ -1947,10 +1947,10 @@
       "period_end": "2025-01-05",
       "cancelled": 17,
       "delayed": 4,
-      "weather": 5,
+      "weather": 6,
       "operational": 0,
       "ambiguous": 0,
-      "unclassified": 16
+      "unclassified": 15
     },
     {
       "route_id": "bodo-vaeran",
@@ -1973,10 +1973,10 @@
       "period_end": "2025-01-19",
       "cancelled": 49,
       "delayed": 2,
-      "weather": 6,
+      "weather": 14,
       "operational": 0,
       "ambiguous": 0,
-      "unclassified": 45
+      "unclassified": 37
     },
     {
       "route_id": "bodo-vaeran",
@@ -1986,10 +1986,10 @@
       "period_end": "2025-01-26",
       "cancelled": 8,
       "delayed": 10,
-      "weather": 0,
+      "weather": 2,
       "operational": 0,
       "ambiguous": 0,
-      "unclassified": 18
+      "unclassified": 16
     },
     {
       "route_id": "bodo-vaeran",
@@ -2012,10 +2012,10 @@
       "period_end": "2025-02-09",
       "cancelled": 29,
       "delayed": 5,
-      "weather": 4,
+      "weather": 13,
       "operational": 0,
       "ambiguous": 0,
-      "unclassified": 30
+      "unclassified": 21
     },
     {
       "route_id": "bodo-vaeran",
@@ -2038,10 +2038,10 @@
       "period_end": "2025-02-23",
       "cancelled": 13,
       "delayed": 7,
-      "weather": 0,
+      "weather": 2,
       "operational": 0,
       "ambiguous": 0,
-      "unclassified": 20
+      "unclassified": 18
     },
     {
       "route_id": "bodo-vaeran",
@@ -2051,10 +2051,10 @@
       "period_end": "2025-03-02",
       "cancelled": 7,
       "delayed": 6,
-      "weather": 0,
+      "weather": 3,
       "operational": 0,
       "ambiguous": 0,
-      "unclassified": 13
+      "unclassified": 10
     },
     {
       "route_id": "bodo-vaeran",
@@ -2064,10 +2064,10 @@
       "period_end": "2025-03-09",
       "cancelled": 8,
       "delayed": 9,
-      "weather": 0,
+      "weather": 3,
       "operational": 0,
       "ambiguous": 0,
-      "unclassified": 17
+      "unclassified": 14
     },
     {
       "route_id": "bodo-vaeran",
@@ -2090,10 +2090,10 @@
       "period_end": "2025-03-23",
       "cancelled": 9,
       "delayed": 11,
-      "weather": 0,
+      "weather": 3,
       "operational": 0,
       "ambiguous": 0,
-      "unclassified": 20
+      "unclassified": 17
     },
     {
       "route_id": "bodo-vaeran",
@@ -2103,10 +2103,10 @@
       "period_end": "2025-03-30",
       "cancelled": 11,
       "delayed": 10,
-      "weather": 0,
+      "weather": 2,
       "operational": 0,
       "ambiguous": 0,
-      "unclassified": 21
+      "unclassified": 19
     },
     {
       "route_id": "bodo-vaeran",
@@ -2467,10 +2467,10 @@
       "period_end": "2025-10-12",
       "cancelled": 9,
       "delayed": 7,
-      "weather": 0,
+      "weather": 2,
       "operational": 0,
       "ambiguous": 0,
-      "unclassified": 16
+      "unclassified": 14
     },
     {
       "route_id": "bodo-vaeran",
@@ -2480,10 +2480,10 @@
       "period_end": "2025-10-19",
       "cancelled": 10,
       "delayed": 8,
-      "weather": 0,
+      "weather": 1,
       "operational": 0,
       "ambiguous": 0,
-      "unclassified": 18
+      "unclassified": 17
     },
     {
       "route_id": "bodo-vaeran",
@@ -2519,10 +2519,10 @@
       "period_end": "2025-11-09",
       "cancelled": 5,
       "delayed": 8,
-      "weather": 0,
+      "weather": 1,
       "operational": 0,
       "ambiguous": 0,
-      "unclassified": 13
+      "unclassified": 12
     },
     {
       "route_id": "bodo-vaeran",
@@ -2558,10 +2558,10 @@
       "period_end": "2025-11-30",
       "cancelled": 20,
       "delayed": 8,
-      "weather": 4,
+      "weather": 6,
       "operational": 0,
       "ambiguous": 0,
-      "unclassified": 24
+      "unclassified": 22
     },
     {
       "route_id": "bodo-vaeran",
@@ -2571,10 +2571,10 @@
       "period_end": "2025-12-07",
       "cancelled": 8,
       "delayed": 8,
-      "weather": 0,
+      "weather": 1,
       "operational": 0,
       "ambiguous": 0,
-      "unclassified": 16
+      "unclassified": 15
     },
     {
       "route_id": "bodo-vaeran",
@@ -2584,10 +2584,10 @@
       "period_end": "2025-12-14",
       "cancelled": 10,
       "delayed": 9,
-      "weather": 0,
+      "weather": 2,
       "operational": 0,
       "ambiguous": 0,
-      "unclassified": 19
+      "unclassified": 17
     },
     {
       "route_id": "bodo-vaeran",
@@ -2597,10 +2597,10 @@
       "period_end": "2025-12-21",
       "cancelled": 9,
       "delayed": 9,
-      "weather": 0,
+      "weather": 1,
       "operational": 0,
       "ambiguous": 0,
-      "unclassified": 18
+      "unclassified": 17
     },
     {
       "route_id": "bodo-vaeran",
@@ -2610,10 +2610,10 @@
       "period_end": "2025-12-28",
       "cancelled": 14,
       "delayed": 4,
-      "weather": 3,
+      "weather": 4,
       "operational": 0,
       "ambiguous": 0,
-      "unclassified": 15
+      "unclassified": 14
     },
     {
       "route_id": "bodo-vaeran",
@@ -2623,10 +2623,10 @@
       "period_end": "2026-01-04",
       "cancelled": 4,
       "delayed": 3,
-      "weather": 0,
+      "weather": 1,
       "operational": 0,
       "ambiguous": 0,
-      "unclassified": 7
+      "unclassified": 6
     },
     {
       "route_id": "bodo-gildeskal",
@@ -2779,10 +2779,10 @@
       "period_end": "2025-03-23",
       "cancelled": 19,
       "delayed": 0,
-      "weather": 1,
+      "weather": 2,
       "operational": 0,
       "ambiguous": 0,
-      "unclassified": 18
+      "unclassified": 17
     },
     {
       "route_id": "bodo-gildeskal",
@@ -2805,10 +2805,10 @@
       "period_end": "2025-04-06",
       "cancelled": 38,
       "delayed": 1,
-      "weather": 4,
+      "weather": 6,
       "operational": 0,
       "ambiguous": 0,
-      "unclassified": 35
+      "unclassified": 33
     },
     {
       "route_id": "bodo-gildeskal",
@@ -3299,10 +3299,10 @@
       "period_end": "2025-12-28",
       "cancelled": 5,
       "delayed": 2,
-      "weather": 2,
+      "weather": 5,
       "operational": 0,
       "ambiguous": 0,
-      "unclassified": 5
+      "unclassified": 2
     },
     {
       "route_id": "bodo-gildeskal",

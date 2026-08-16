@@ -11,7 +11,7 @@
         "delay_days": 34,
         "avg_delay_min": 108.8,
         "median_delay_min": 19.0,
-        "weather_share_pct_of_disruptions": 2.2,
+        "weather_share_pct_of_disruptions": 2.9,
         "ais_coverage": "full",
         "method_note": "cancellation_days/delay_days = distinct 2025 calendar dates with >=1 trip in that status, from this pipeline's own AIS-vs-schedule matching -- not directly comparable methodology to NF17-2025's operator-self-reported avviksrapporter (see tender_context below). avg_delay_min is a simple mean, kept only for direct comparability with NF17's own mean-based figure -- it is skewed upward by a small number of severe (multi-hour) delays. median_delay_min is the more representative 'typical delayed trip' figure; prefer it when NF17 context isn't in view."
       },
@@ -51,7 +51,7 @@
         "delay_days": 80,
         "avg_delay_min": 205.4,
         "median_delay_min": 277.0,
-        "weather_share_pct_of_disruptions": 2.0,
+        "weather_share_pct_of_disruptions": 4.0,
         "ais_coverage": "full",
         "method_note": "cancellation_days/delay_days = distinct 2025 calendar dates with >=1 trip in that status, from this pipeline's own AIS-vs-schedule matching -- not directly comparable methodology to NF17-2025's operator-self-reported avviksrapporter (see tender_context below). avg_delay_min is a simple mean, kept only for direct comparability with NF17's own mean-based figure -- it is skewed upward by a small number of severe (multi-hour) delays. median_delay_min is the more representative 'typical delayed trip' figure; prefer it when NF17 context isn't in view."
       },
@@ -93,7 +93,7 @@
         "delay_days": 46,
         "avg_delay_min": 225.5,
         "median_delay_min": 125.8,
-        "weather_share_pct_of_disruptions": 1.3,
+        "weather_share_pct_of_disruptions": 5.3,
         "ais_coverage": "full",
         "method_note": "cancellation_days/delay_days = distinct 2025 calendar dates with >=1 trip in that status, from this pipeline's own AIS-vs-schedule matching -- not directly comparable methodology to NF17-2025's operator-self-reported avviksrapporter (see tender_context below). avg_delay_min is a simple mean, kept only for direct comparability with NF17's own mean-based figure -- it is skewed upward by a small number of severe (multi-hour) delays. median_delay_min is the more representative 'typical delayed trip' figure; prefer it when NF17 context isn't in view."
       },
@@ -110,7 +110,7 @@
         "delay_days": 263,
         "avg_delay_min": 73.3,
         "median_delay_min": 40.7,
-        "weather_share_pct_of_disruptions": 3.5,
+        "weather_share_pct_of_disruptions": 8.3,
         "ais_coverage": "full",
         "method_note": "cancellation_days/delay_days = distinct 2025 calendar dates with >=1 trip in that status, from this pipeline's own AIS-vs-schedule matching -- not directly comparable methodology to NF17-2025's operator-self-reported avviksrapporter (see tender_context below). avg_delay_min is a simple mean, kept only for direct comparability with NF17's own mean-based figure -- it is skewed upward by a small number of severe (multi-hour) delays. median_delay_min is the more representative 'typical delayed trip' figure; prefer it when NF17 context isn't in view."
       },
@@ -127,7 +127,7 @@
         "delay_days": 99,
         "avg_delay_min": 121.5,
         "median_delay_min": 92.0,
-        "weather_share_pct_of_disruptions": 3.2,
+        "weather_share_pct_of_disruptions": 3.8,
         "ais_coverage": "full",
         "method_note": "cancellation_days/delay_days = distinct 2025 calendar dates with >=1 trip in that status, from this pipeline's own AIS-vs-schedule matching -- not directly comparable methodology to NF17-2025's operator-self-reported avviksrapporter (see tender_context below). avg_delay_min is a simple mean, kept only for direct comparability with NF17's own mean-based figure -- it is skewed upward by a small number of severe (multi-hour) delays. median_delay_min is the more representative 'typical delayed trip' figure; prefer it when NF17 context isn't in view."
       },
