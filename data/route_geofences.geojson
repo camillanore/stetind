@@ -16,6 +16,7 @@
         "radius_m": 200.0,
         "route_ids": [
           "bodo-helgeland",
+          "nex1s-bodo-traena-sommer",
           "bodo-svolvaer-bodo",
           "bodo-vaeran",
           "bodo-gildeskal"
@@ -148,6 +149,7 @@
         "radius_m": 200.0,
         "route_ids": [
           "bodo-helgeland",
+          "nex1s-bodo-traena-sommer",
           "helgelandspendelen"
         ]
       }
@@ -166,7 +168,8 @@
         "name": "Selvær hurtigbåtkai",
         "radius_m": 200.0,
         "route_ids": [
-          "bodo-helgeland"
+          "bodo-helgeland",
+          "nex1s-bodo-traena-sommer"
         ]
       }
     },
@@ -184,7 +187,8 @@
         "name": "Rødøy hurtigbåtkai",
         "radius_m": 200.0,
         "route_ids": [
-          "bodo-helgeland"
+          "bodo-helgeland",
+          "nex1s-bodo-traena-sommer"
         ]
       }
     },
@@ -238,7 +242,8 @@
         "name": "Myken hurtigbåtkai",
         "radius_m": 200.0,
         "route_ids": [
-          "bodo-helgeland"
+          "bodo-helgeland",
+          "nex1s-bodo-traena-sommer"
         ]
       }
     },
@@ -274,7 +279,8 @@
         "name": "Støtt hurtigbåtkai",
         "radius_m": 200.0,
         "route_ids": [
-          "bodo-helgeland"
+          "bodo-helgeland",
+          "nex1s-bodo-traena-sommer"
         ]
       }
     },
@@ -292,7 +298,8 @@
         "name": "Bolga hurtigbåtkai",
         "radius_m": 200.0,
         "route_ids": [
-          "bodo-helgeland"
+          "bodo-helgeland",
+          "nex1s-bodo-traena-sommer"
         ]
       }
     },
@@ -310,7 +317,8 @@
         "name": "Grønnøy hurtigbåtkai",
         "radius_m": 200.0,
         "route_ids": [
-          "bodo-helgeland"
+          "bodo-helgeland",
+          "nex1s-bodo-traena-sommer"
         ]
       }
     },
@@ -328,7 +336,8 @@
         "name": "Ørnes hurtigbåtkai",
         "radius_m": 200.0,
         "route_ids": [
-          "bodo-helgeland"
+          "bodo-helgeland",
+          "nex1s-bodo-traena-sommer"
         ]
       }
     },
@@ -347,6 +356,7 @@
         "radius_m": 200.0,
         "route_ids": [
           "bodo-helgeland",
+          "nex1s-bodo-traena-sommer",
           "bodo-gildeskal"
         ]
       }

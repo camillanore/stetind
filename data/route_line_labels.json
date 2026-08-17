@@ -7,7 +7,14 @@
       "color": "#e0293f",
       "confidence": "confirmed",
       "internal_contract_code": "23-731",
-      "note": "Nordlandsekspressen 1. Confirmed both from the real 2025 line map (red NEX1 line runs Bodø-Sørarnøy-Stokkvågen-Nesna-Sandnessjøen-Brønnøysund) and CLAUDE.md's own NeTEx filename candidate -- corrects the design brief, which mislabeled this pairing as 'Bodø–Væran'."
+      "note": "Nordlandsekspressen 1. Confirmed both from the real 2025 line map (red NEX1 line runs Bodø-Sørarnøy-Stokkvågen-Nesna-Sandnessjøen-Brønnøysund) and CLAUDE.md's own NeTEx filename candidate -- corrects the design brief, which mislabeled this pairing as 'Bodø–Væran'. From 2026-08-17 this route_id covers the year-round trunk service ONLY; the summer NEX1s shuttle that shares its NeTEx line was split onto its own route_id, see 'nex1s-bodo-traena-sommer' below."
+    },
+    "nex1s-bodo-traena-sommer": {
+      "official_line_label": "NEX 1s",
+      "color": "#b03060",
+      "confidence": "confirmed",
+      "internal_contract_code": "23-731",
+      "note": "Nordlandsekspressen 1 sommer -- the summer-only Bodø<->Træna shuttle, added 2026-08-17. Shares NeTEx line 3731 (hence the same internal_contract_code as bodo-helgeland) but is a separate operational service with its own season (real archived 2025 dates: 2025-06-23..2025-08-13, Mon-Fri), its own 10-quay itinerary and its own vessel; see data/reference/route_line_files.json's entry of the same name for the full archive evidence. 'NEX 1s' is the name the printed 2025 Reis Nordland/NOR-Line timetable itself uses for this service (see official_timetables_2025_nex1_nex2.json), so the badge is confirmed, not inferred. Color is a deep rose deliberately kept in NEX 1's red family (it IS a NEX 1 variant) while remaining separable: re-validated as a full 10-color set with the dataviz skill's validate_palette.js --mode light --surface '#fcfcfb' -- all adjacent-pair checks pass, and of the candidates tried this is the only one that leaves the set's all-pairs worst case exactly where the pre-existing 9 already put it (#eda100 vs #f0812e), i.e. it introduces no new worst pair."
     },
     "bodo-svolvaer-bodo": {
       "official_line_label": "NEX 2",

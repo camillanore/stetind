@@ -42,6 +42,23 @@
       "tender_context_note": null
     },
     {
+      "route_id": "nex1s-bodo-traena-sommer",
+      "line_name": "NEX1s Bodø-Træna (sommer)",
+      "contract_number": 1,
+      "contract_name_no": "Hurtigbåt Nordlandsekspressen 1 & 2",
+      "pipeline_2025": {
+        "cancellation_days": 0,
+        "delay_days": 0,
+        "avg_delay_min": null,
+        "median_delay_min": null,
+        "weather_share_pct_of_disruptions": null,
+        "ais_coverage": "full",
+        "method_note": "cancellation_days/delay_days = distinct 2025 calendar dates with >=1 trip in that status, from this pipeline's own AIS-vs-schedule matching -- not directly comparable methodology to NF17-2025's operator-self-reported avviksrapporter (see tender_context below). avg_delay_min is a simple mean, kept only for direct comparability with NF17's own mean-based figure -- it is skewed upward by a small number of severe (multi-hour) delays. median_delay_min is the more representative 'typical delayed trip' figure; prefer it when NF17 context isn't in view."
+      },
+      "tender_context": null,
+      "tender_context_note": "No quantified 2025 (or any year) disruption benchmark found in docs/tenders/ or docs/tenders/reference/ for this contract -- see data/reference/tender_disruption_claims.md."
+    },
+    {
       "route_id": "bodo-svolvaer-bodo",
       "line_name": "Bodø - Svolvær - Bodø",
       "contract_number": 1,
