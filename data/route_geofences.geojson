@@ -18,6 +18,8 @@
           "bodo-helgeland",
           "nex1s-bodo-traena-sommer",
           "bodo-svolvaer-bodo",
+          "nex2s-bodo-skutvik-sommer",
+          "nex2b-bodo-helnessund-lokal",
           "bodo-vaeran",
           "bodo-gildeskal"
         ]
@@ -375,7 +377,8 @@
         "name": "Nordskot hurtigbåtkai",
         "radius_m": 200.0,
         "route_ids": [
-          "bodo-svolvaer-bodo"
+          "bodo-svolvaer-bodo",
+          "nex2s-bodo-skutvik-sommer"
         ]
       }
     },
@@ -393,7 +396,9 @@
         "name": "Brennsund hurtigbåtkai",
         "radius_m": 200.0,
         "route_ids": [
-          "bodo-svolvaer-bodo"
+          "bodo-svolvaer-bodo",
+          "nex2s-bodo-skutvik-sommer",
+          "nex2b-bodo-helnessund-lokal"
         ]
       }
     },
@@ -411,7 +416,8 @@
         "name": "Holkestad hurtigbåtkai",
         "radius_m": 200.0,
         "route_ids": [
-          "bodo-svolvaer-bodo"
+          "bodo-svolvaer-bodo",
+          "nex2s-bodo-skutvik-sommer"
         ]
       }
     },
@@ -429,7 +435,8 @@
         "name": "Bogøy hurtigbåtkai",
         "radius_m": 200.0,
         "route_ids": [
-          "bodo-svolvaer-bodo"
+          "bodo-svolvaer-bodo",
+          "nex2s-bodo-skutvik-sommer"
         ]
       }
     },
@@ -447,7 +454,9 @@
         "name": "Helnessund hurtigbåtkai",
         "radius_m": 200.0,
         "route_ids": [
-          "bodo-svolvaer-bodo"
+          "bodo-svolvaer-bodo",
+          "nex2s-bodo-skutvik-sommer",
+          "nex2b-bodo-helnessund-lokal"
         ]
       }
     },
@@ -465,7 +474,8 @@
         "name": "Skutvik hurtigbåtkai",
         "radius_m": 200.0,
         "route_ids": [
-          "bodo-svolvaer-bodo"
+          "bodo-svolvaer-bodo",
+          "nex2s-bodo-skutvik-sommer"
         ]
       }
     },

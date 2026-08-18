@@ -21,7 +21,21 @@
       "color": "#f0812e",
       "confidence": "confirmed",
       "internal_contract_code": "23-755",
-      "note": "Nordlandsekspressen 2, Bodø-Bogøy-Skutvik-Svolvær-Bodø. Matches both the design brief and the real map's orange NEX2 line -- the one design-brief pairing that checked out as given."
+      "note": "Nordlandsekspressen 2, Bodø-Bogøy-Skutvik-Svolvær-Bodø. Matches both the design brief and the real map's orange NEX2 line -- the one design-brief pairing that checked out as given. From 2026-08-18 this route_id covers the Bodø<->Svolvær mainline ONLY; two shorter local services that share its NeTEx line were split onto their own route_ids, see 'nex2s-bodo-skutvik-sommer' and 'nex2b-bodo-helnessund-lokal' below."
+    },
+    "nex2s-bodo-skutvik-sommer": {
+      "official_line_label": "NEX 2s",
+      "color": "#9c7616",
+      "confidence": "confirmed",
+      "internal_contract_code": "23-755",
+      "note": "Nordlandsekspressen 2 sommer -- a summer-only Bodø<->Skutvik partial run, added 2026-08-18. Shares NeTEx line 3755 (hence the same internal_contract_code as bodo-svolvaer-bodo) but is a separate operational service with its own season (real archived 2025 dates: 2025-06-02..2025-08-29, Mon-Fri); see data/reference/route_line_files.json's entry of the same name for the full archive evidence and its cross-check against the printed 'Nex Sommer 2025' timetable. Color: the bundled dataviz skill's validate_palette.js was not present in this environment (empty scripts/ dir), so the same OKLab ΔE / WCAG contrast method it documents was computed directly in Python instead -- this color clears every existing palette entry by ΔE >= 15.5 (existing worst pair is f0812e vs eda100 at ~8.08) and clears nex2b-bodo-helnessund-lokal by ΔE ~15.7, while staying in NEX2's orange/amber family (deliberately darker/more muted than f0812e, the same 'family variant' choice nex1s-bodo-traena-sommer made for red)."
+    },
+    "nex2b-bodo-helnessund-lokal": {
+      "official_line_label": "NEX 2b",
+      "color": "#774522",
+      "confidence": "confirmed",
+      "internal_contract_code": "23-755",
+      "note": "Nordlandsekspressen 2b -- a Tuesday/Friday-only Bodø<->Helnessund local run, added 2026-08-18, not found in any 2025 printed timetable but confirmed from real archived 2025 OperatingDays and corroborated against a 2026 printed Nordlandsekspressen itinerary supplied by the user; see data/reference/route_line_files.json's entry of the same name for the full evidence trail. 'NEX 2b' is the user-supplied name (2026-08-18), not independently found on any printed material. Color: same computed-not-eyeballed method as nex2s-bodo-skutvik-sommer above (validate_palette.js unavailable in this environment) -- clears every existing entry by ΔE >= 15.2 and nex2s-bodo-skutvik-sommer by ΔE ~15.7, a darker rust/terracotta variant staying in NEX2's orange family."
     },
     "bodo-gildeskal": {
       "official_line_label": "100",

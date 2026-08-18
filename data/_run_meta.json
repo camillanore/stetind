@@ -1,41 +1,41 @@
 {
   "script": "scripts/build_gold.py",
   "function": "pipeline.gold.build_all_gold",
-  "generated_at_utc": "2026-08-16T22:52:17.498190+00:00",
+  "generated_at_utc": "2026-08-18T09:10:08.485793+00:00",
   "files": {
     "gold_summary_kpi.json": {
-      "record_count": 10,
-      "bytes": 8727
+      "record_count": 12,
+      "bytes": 9974
     },
     "gold_triangulated_trips.json": {
       "record_count": 30384,
-      "bytes": 31008081
+      "bytes": 31260371
     },
     "route_geofences.geojson": {
       "record_count": 55,
-      "bytes": 20891
+      "bytes": 21287
     },
     "gold_disruption_timeline.json": {
-      "record_count": 460,
-      "bytes": 138613
+      "record_count": 506,
+      "bytes": 152861
     },
     "gold_tender_comparison.json": {
-      "record_count": 10,
-      "bytes": 14170
+      "record_count": 12,
+      "bytes": 16683
     },
     "gold_vessel_reliability.json": {
       "record_count": 18,
-      "bytes": 48769
+      "bytes": 49994
     },
     "gold_ais_track_points.json": {
-      "record_count": 1518814,
-      "bytes": 27060937
+      "record_count": 1518698,
+      "bytes": 27058859
     },
     "ais_tracks/": {
-      "record_count": 30959032,
-      "bytes": 1728435030,
-      "file_count": 25315
+      "record_count": 30867118,
+      "bytes": 1723310702,
+      "file_count": 25314
     }
   },
-  "total_record_count": 32508783
+  "total_record_count": 32416803
 }
